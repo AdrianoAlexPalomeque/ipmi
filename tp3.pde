@@ -1,6 +1,6 @@
 //Alex Palomeque (93077/3)
 //Tp3 Bucle For
-//Video
+//Video https://www.youtube.com/watch?v=zjrdjT9XT8E
 PImage foto;
 float distancia = 4;
 float trialCant = 40;
